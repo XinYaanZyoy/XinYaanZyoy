@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm XinYaanZyoy （心言自由）</h1>
 <h3 align="center">An Explorer, who explores almost everything that's beautiful, but specifically wishes to understand the romance of Higher Category Theory, Higher Computation, and Homotopical Mathematics.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=xinyaanzyoy&label=Profile%20views&color=0e75b6&style=flat" alt="xinyaanzyoy" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=xinyaanzyoy&label=Profile%20views&color=0eb42f&style=plastic" alt="xinyaanzyoy" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=xinyaanzyoy" alt="xinyaanzyoy" /></a> </p>
 
@@ -43,8 +43,8 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/XinYaanZyoy"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="XinYaanZyoy" /></a></p><br><br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=xinyaanzyoy&show_icons=true&locale=en&layout=compact" alt="xinyaanzyoy" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=xinyaanzyoy&show_icons=true&theme=dark&locale=en&layout=compact" alt="xinyaanzyoy" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=xinyaanzyoy&show_icons=true&locale=en" alt="xinyaanzyoy" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=xinyaanzyoy&show_icons=true&theme=dark&locale=en" alt="xinyaanzyoy" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=xinyaanzyoy&" alt="xinyaanzyoy" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=xinyaanzyoy&theme=dark" alt="xinyaanzyoy" /></p>
