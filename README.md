@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/xinyaanzyoy" target="blank"><img src="https://img.shields.io/twitter/follow/xinyaanzyoy?logo=twitter&style=for-the-badge" alt="xinyaanzyoy" /></a> </p>
 
-- 🔭 I’m currently working on [AOC 2020](https://github.com/XinYaanZyoy/AoC2020XYZ)
+- 🔭 I’m currently working on [AOC 2021](https://github.com/XinYaanZyoy/AoC)
 
 - 🌱 I’m currently learning **Haskell, Functional Programming, Category Theory, etc...**
 
